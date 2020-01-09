@@ -1,0 +1,3 @@
+ORM Room database
+Abstract vs interface
+Use of rx java 
