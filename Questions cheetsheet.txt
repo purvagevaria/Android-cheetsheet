@@ -1,3 +1,18 @@
-ORM Room database
+OOPS
 Abstract vs interface
-Use of rx java 
+Encapsulation vs Abstraction
+Why multiple inheritance not supported in java (Dimond problem)
+
+String String buffer string builder
+
+Data stracture
+Arraylist(class) vs list (Interface)
+
+
+Data base
+ORM data base
+Benifits of room
+
+Rx java
+Use of rx java
+Search functionality with rx java
