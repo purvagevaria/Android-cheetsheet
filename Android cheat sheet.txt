@@ -1,0 +1,91 @@
+OOPS 
+Object
+Class
+Inheritance
+Polymorphism
+	Which is run time which is compile time 
+	Overloading  >> Compile time
+	Overriding >> Run time >> Because which parent method to be overrrigden can check runtime
+	Can we set diffrent return type in overloading ? No
+Encapsulation
+Abstraction
+Encapsulation Hiding unwanted data and giving relevent data >> Encapsulation hiding/protecting data
+One concept is about hiding giving something other is about hiding something
+Abstraction focus on outer layer Encapsulation is on inner layer
+Implemented using abstract class and interface
+Encapsulation >>> Access modifires
+
+
+Interface Single Multilevel Multiple Hyrachical
+Diffrence between abstraction and interface
+Interface question 
+Can we declare variable in interface
+Can we declare static method in interface
+Can static and final method can be overridden
+Can we implement interface with another interface
+Why multiple inheritance is not supported by java - Dimond problem
+Use of this keyword
+
+What are operators of rxJava
+Use of rxJava
+Observe on
+Subscribe on
+Schedular.io
+
+
+Android architecture components
+Android jetpack components
+MVVM > Each
+Workmanager vs jobschedular
+Firebase job dispatcher - Requires google paly
+Workmanager > Job scheduler if not Firebase job dispatcher not alaram manager broadcast receiver
+
+
+
+Declare constraints in work manager
+
+What are desgin pattern 
+Singleton pattern how to create singlaton
+
+Types of service Diff
+
+Benifits of room database
+What is ORM
+Types of join
+
+Advantages of kotlin vs java
+var var lateint
+How to write extention function
+Extention fun vs inline fun
+
+Hashtable vs hashset
+Array vs list
+
+
+What is ANR
+
+XMPP name
+What is roster in xmpp
+
+What is thread 
+How to delcare thread
+Diff thread.start vs thread.run
+
+Serializable vs parcable
+
+Retrofit vs volley
+Mechanism of retrofit
+
+Activity fragment lifecyle
+
+Int : 1 
+-----------------------------------------------------------------------------
+Diffrence between private and public initialization in terms of memory
+MVP vs MVVM
+Room db managing relations
+Track memory leakage
+Data binding in android
+Coreroutins
+Sending request in chain using retrofit
+Kotlin latest version
+Singlaton in java
