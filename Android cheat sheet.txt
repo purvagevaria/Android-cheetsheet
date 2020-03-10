@@ -90,3 +90,9 @@ Sending request in chain using retrofit
 Kotlin latest version
 Singlaton in java
 JVM static use : Class level or function level ? Can we use it in class level
+
+Int : 2
+------------
+Access modifieres in kotlin
+Web rtc 
+String pooling
