@@ -90,7 +90,15 @@ Sending request in chain using retrofit
 Kotlin latest version
 Singlaton in java
 JVM static use : Class level or function level ? Can we use it in class level
-
+What are the keypoints while creating your own architecture
+Http vs https
+http vs mqtt
+Whare are the rules you are following for versioning branch rules
+How many git commands you are knowing 
+What is rebase, stash, head
+How to protect our code
+which layout you are using 
+Diffrence between fragment and activity
 Int : 2
 ------------
 Access modifieres in kotlin
