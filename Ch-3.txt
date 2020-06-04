@@ -1,0 +1,26 @@
+Int 5
+---------
+Handler vs thread (Which one will you use for long running operation)
+Handler vs async task
+Diffrence bwn abstract class and interface
+Service vs intent service
+Work manager vs job schedular
+Abstract class vs encapsulation
+MVVM vs MVP
+Content prodviders vs shared preference
+RxJava vs live data
+Use of synchonized
+Dessign patterns : Fectory, Singlaton
+Constractor's visibilty (Private)
+One class having paramtrized constrcutor 
+Class Abc(){
+
+	void Abc(int a){
+
+	}
+}
+Can we create object of class without passing and argument 
+new Abc(); >> Can we do this >> NOOO
+Normalization vs denormalization
+What is test driven development > Creating test cases first 
+Collection framework
