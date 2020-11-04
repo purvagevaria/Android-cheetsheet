@@ -22,7 +22,7 @@ Interface question
 Can we declare variable in interface
 Can we declare static method in interface
 Can static and final method can be overridden
-Can we implement interface with another interface
+Can we implement interface with another interface    >>>>> No but we can extend 
 Why multiple inheritance is not supported by java - Dimond problem
 Use of this keyword
 
@@ -39,9 +39,6 @@ MVVM > Each
 Workmanager vs jobschedular
 Firebase job dispatcher - Requires google paly
 Workmanager > Job scheduler if not Firebase job dispatcher not alaram manager broadcast receiver
-
-
-
 Declare constraints in work manager
 
 What are desgin pattern 
@@ -55,6 +52,7 @@ Types of join
 
 Advantages of kotlin vs java
 var var lateint
+lazy vs lateint
 How to write extention function
 Extention fun vs inline fun
 
