@@ -1,0 +1,8 @@
+Can we decalre construcot in abstract class
+What is coreroutines
+mvvm design pattern
+SOLID Principle 
+Compass sensor
+What are sensor methods for handling your sensor events
+kotlin val vs const val
+How many manifest files are there in one android project =- multiple 
