@@ -1,0 +1,13 @@
+scope function (let run with apply can run with the scope/context of an object)
+inline function lamda functions like invoke
+diffrence between apply and with 
+how to create imutable class in java - make it final
+diffrence between jobschedular and work manager 
+Workmanager internally uses AlarmManger, Jobscheduler or Firebase Job Dispatcher based on Android API level 
+Workmanger handles all scenario for you and also has easy to use API but beware that right now its in alpha stage so you may end up with some issues.
+Good constraints
+Backward compitability
+How to create singlaton in kotlin
+== vs === ( == compares the data) and (=== compares it's true only if both variables poiting to one object)
+lateint ===== var 
+lazy ===== val one time declaration only
