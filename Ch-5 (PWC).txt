@@ -1,0 +1,20 @@
+fun main() {
+    println("Hello, world!!! "+getNumberOfWords("Hello how are you"))
+    
+}
+
+fun addNumbers( a:Int, b:Int):Int{
+    var c = a+b
+    return c
+}
+
+fun getNumberOfWords(abc:String):String{
+    var c = abc.split(" ")
+    c.distinct();
+    return c
+}
+
+- Operator overloading
+- Sealed and internal class
+- Run vs let 
+- Signlaton class in kotlin
