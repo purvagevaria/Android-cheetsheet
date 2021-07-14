@@ -8,6 +8,17 @@ Workmanger handles all scenario for you and also has easy to use API but beware 
 Good constraints
 Backward compitability
 How to create singlaton in kotlin
-== vs === ( == compares the data) and (=== compares it's true only if both variables poiting to one object)
+== vs === ( == compares the data) and (=== compares it's true only if both variables poiting to one object  )
+  var a = Arrays.asList("1","2")
+        var b = ArrayList<String>()
+        if (a === b){
+            android.util.Log.d("TAG", "onCreate: True")
+        }else{
+            android.util.Log.d("TAG", "onCreate: False")
+        }
+        
+it will return fals . a is arrays and b is array list
+
+        
 lateint ===== var 
 lazy ===== val one time declaration only
